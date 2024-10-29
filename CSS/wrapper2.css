@@ -1,0 +1,57 @@
+.banner-wrapper2{
+  position: relative;
+  width: 1897px;
+  height: fit-content;
+}
+.image2{
+  width: 100%;
+  z-index: 0;
+}
+.text-wrapper2{
+  display: block;
+  width: 853.641px;
+  height: 155.109px;
+  border-radius: 100px;
+  background-color: rgb(10, 91, 43, 0.8);
+  color: white;
+  font-family: Nobel, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  position: absolute;
+  z-index: 5;
+  margin-left: 521.672px;
+  margin-right: 521.688px;
+  padding-bottom: 43px;
+  padding-top: 10px;
+  text-align: center;
+  top: 364px;
+}
+.text1{
+  font-size: 36px;
+  margin-bottom: 23px;
+}
+.text2{
+  font-size: 18px;
+  font-weight: 500;
+}
+.button-wrapper2{
+  padding-bottom: 5px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 5px;
+  text-align: center;
+  border: 2px;
+  border-color: white;
+  border-style: solid;
+  border-radius: 30px;
+  font-weight: 500;
+  font-size: 19px;
+}
+.button{
+  cursor: pointer;
+  margin-left: 340px;
+  width: fit-content;
+  height: fit-content;
+  margin-top: 35px;
+}
